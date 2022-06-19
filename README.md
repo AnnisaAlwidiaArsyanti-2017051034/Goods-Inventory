@@ -6,7 +6,7 @@
 - Irma Azizah 2017051038
 
 ## Studi Kasus
-Studi kasus yang kami gunakan adalah inventoris barang dengan nama aplikasi yaitu <strong>Goods Inventory<strong>.<br>Tampilan awal aplikasi adalah halaman index dimana terdapat fitur Login.<br>
+Studi kasus yang kami gunakan adalah inventoris barang dengan nama aplikasi yaitu <strong>Goods Inventory</strong>.<br>Tampilan awal aplikasi adalah halaman index dimana terdapat fitur Login.<br>
   
   ### Register
   Disini pengguna dapat membuat akun menggunakan *email*. *Email* yang sudah pernah digunakan untuk membuat akun tidak akan bisa digunakan untuk membuat akun kembali.<br>
@@ -15,7 +15,7 @@ Studi kasus yang kami gunakan adalah inventoris barang dengan nama aplikasi yait
   Setelah membuat akun, penggguna akan dialihkan ke halaman **Login** untuk login. Selesai login, barulah pengguna dapat mengelola inventories barang.<br>
   
   ### Stock Barang
-  *Barang* yang sudah didata tidak akan bisa digunakan untuk membuat data baru.<br>
+  *Barang* yang sudah dida tidak akan bisa digunakan untuk membuat data baru.<br>
   
   ### Barang Masuk
   *Barang* yang sudah didata di **Stock Barang** dapat diinputkan setiap kali barang yang sama masuk. Tanggal dan waktu masuknya barang akan otomatis tercatat. Quantity barang yang masuk, akan otomatis diakumulasikan dengan *stock* barang yang sudah ada di **Stock Barang** sebelumnya dan *stock* pada **Stock Barang** akan otomatis terupdate.<br>
