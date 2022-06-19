@@ -6,7 +6,7 @@
 - Irma Azizah 2017051038
 
 ## Studi Kasus
-Studi kasus yang kami gunakan adalah inventoris barang dengan nama aplikasi yaitu <strong>Goods Inventory<strong>.<br> 
+Studi kasus yang kami gunakan adalah inventoris barang dengan nama aplikasi yaitu <strong>Goods Inventory<strong>.<br>Tampilan awal aplikasi adalah halaman index dimana terdapat fitur Login.<br>
   
   ### Register
   Disini pengguna dapat membuat akun menggunakan *email*. *Email* yang sudah pernah digunakan untuk membuat akun tidak akan bisa digunakan untuk membuat akun kembali.<br>
