@@ -27,7 +27,7 @@ Studi kasus yang kami gunakan adalah inventoris barang dengan nama aplikasi yait
   Setelah selesai mengelola inventoris barang, pengguna dapat logout.<br>
   
   ### Catatan
-  Jika pengguna tidak sengaja mengakses halaman **Stock Barang**, **Barang Masuk**, dan **Barang Keluar** saat belum melakukan **Login**, maka akan otomatis diarahkan ke halaman **Login**. Sebaliknya, jika pengguna sudah melakukan **Login**, dan tidak sengaja mengakses halaman **Login**, maka akan otomatis diarahkan ke halaman **Stock Barang**.<br>
+  Jika pengguna tidak sengaja mengakses halaman **Stock Barang**, **Barang Masuk**, dan **Barang Keluar** saat belum melakukan **Login**, maka akan otomatis diarahkan ke halaman **Login**. Sebaliknya, jika pengguna sudah melakukan **Login**, dan tidak sengaja mengakses halaman **Login** (index), maka akan otomatis diarahkan ke halaman **Stock Barang**.<br>
   
 ## Rincian Pembagian Tugas
   - Annisa Alwidia Arsyanti (Setup Halaman, Edit Data (Update), Hapus Data (Delete), dan Hosting)
