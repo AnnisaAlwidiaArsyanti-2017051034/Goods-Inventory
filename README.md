@@ -35,6 +35,6 @@ Studi kasus yang kami gunakan adalah inventoris barang dengan nama aplikasi yait
   - Irma Azizah (Input Data (Create) dan Tampil Data (Read))
   
 ## Link Hosting Goods Inventory
-  [Goods Inventory](goodsinventory.epizy.com)
+  goodsinventory.epizy.com
  
   
